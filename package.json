@@ -1,0 +1,25 @@
+{
+  "name": "devhawkteam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devHawkTeam"
+  },
+  "keywords": [
+    "[",
+    "\"dev\"",
+    "\"algorithms\"",
+    "\"data",
+    "strucutures\"]"
+  ],
+  "author": "Rayan Ramirez",
+  "license": "ISC",
+  "devDependencies": {
+    "@semantic-release/github": "^8.0.5"
+  }
+}
