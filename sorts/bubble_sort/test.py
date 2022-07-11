@@ -1,5 +1,5 @@
 import unittest
-from sorts import bubble_sort
+import bubble_sort
 
 
 class Tester(unittest.TestCase):
